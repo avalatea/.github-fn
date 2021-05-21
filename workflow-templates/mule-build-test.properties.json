@@ -1,0 +1,8 @@
+{
+    "name": "FN Mule Build and Test Workflow",
+    "description": "FiscalNote Mule Build and Unit Test Workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Mulesoft"
+    ]
+}

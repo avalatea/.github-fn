@@ -1,0 +1,8 @@
+{
+    "name": "FN Mule Deploy to DEV Workflow",
+    "description": "FiscalNote Mule Build and Deploy to DEV Workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Mulesoft"
+    ]
+}

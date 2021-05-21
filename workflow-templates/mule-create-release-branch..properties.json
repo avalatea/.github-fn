@@ -1,0 +1,8 @@
+{
+    "name": "FN Mule Create Release Branch Workflow",
+    "description": "FiscalNote Mule Create Release Branch Workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Mulesoft"
+    ]
+}

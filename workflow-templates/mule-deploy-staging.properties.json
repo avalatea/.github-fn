@@ -1,0 +1,8 @@
+{
+    "name": "FN Mule Deploy to STAGING Workflow",
+    "description": "FiscalNote Mule Build and Deploy to STAGING Workflow template.",
+    "iconName": "icon",
+    "categories": [
+        "Mulesoft"
+    ]
+}
