@@ -1,0 +1,6 @@
+{
+  "name": "DE Team CRT deploy to STAGING workflow",
+  "description": "Use this action template in order to deploy your services to staging.",
+  "iconName": "octicon squirrel",
+  "categories": ["deployment"]
+}
