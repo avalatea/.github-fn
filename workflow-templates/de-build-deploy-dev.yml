@@ -25,6 +25,8 @@ jobs:
 
         # Tagged as latest
         type=raw,value=latest,priority=50
+      # Optional, build target for the Dockerfile
+      BUILD_TARGET:
     secrets: inherit
 
   deploy:
